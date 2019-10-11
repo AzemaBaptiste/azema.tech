@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Baptiste AZÉMA</title>
+    <link>azema.tech/</link>
+    <description>Recent content on Baptiste AZÉMA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="azema.tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>azema.tech/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>azema.tech/about/</guid>
+      <description>Contact  Email - baptiste.azema[dot]protonmail[dot]com LinkedIn - https://www.linkedin.com/in/baptiste-azema-6a94b44a/  Credits Site built with Hugo. Hugo is a static site engine written in Go.
+The theme used is Hermit.</description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>azema.tech/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>azema.tech/cv/</guid>
+      <description>Education &amp;amp; Certifications 🎓 Google Cloud Platform (GCP) Certified Professional Data Engineer on Google Cloud Platform (2019) CREDENTIALS
+Engineer&amp;rsquo;s degree 2011 &amp;gt; 2016
+ICAM (Toulouse)
+Experiences 👨‍💻 Renault Digital - Data Engineer 2018 &amp;gt; Current
+Datamart and IA Creation from scratch of a datamart with 2 machine learning models deployed to production. 8 developers
+ GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, Python, SQL
+ Data replication on-premise to GCP Daily replication of 50 Hive databases (Hadoop) to BigQuery (GCP).</description>
+    </item>
+    
+  </channel>
+</rss>
