@@ -1,0 +1,64 @@
+baseURL = "https://azema.tech/"
+languageCode = "fr-fr"
+# languagecode = "fr"
+# defaultcontentlanguage = "fr"
+title = "Baptiste AZÉMA"
+theme = "hermit"  
+email = "baptiste.azema@protonmail.com"
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+[params]
+    dateform        = "Jan 2, 2006"
+    dateformShort   = "Jan 2"
+    dateformNum     = "2006-01-02"
+    dateformNumTime = "2006-01-02 15:04 -0700"
+    author = "Baptiste Azéma"
+    info = "Data Engineer"
+    description = "Baptiste Azéma's personal website"
+    keywords = "data, machine learning"
+    avatarurl = "img/logo.png"
+
+    favicon_32 = "/img/favicon.ico"
+    favicon_16 = "/img/favicon.ico"
+
+ #   footercontent = "Enter a text here."
+
+    hidecredits = false
+    hidecopyright = false
+
+    rtl = false
+
+    math = true
+    customCSS = ["css/custom.scss"]
+
+# Social links
+[[params.social]]
+    name = "github"
+    icon = "fab fa-github fa-2x"
+    weight = 1
+    url = "https://github.com/AzemaBaptiste/"
+[[params.social]]
+    name = "linkedin"
+    icon = "fab fa-linkedin"
+    weight = 4
+    url = "https://www.linkedin.com/in/baptiste-azema-6a94b44a/"
+[[params.social]]
+    name = "email"
+    icon = "fab fa-email"
+    weight = 4
+    url = "mailto:baptiste.azema@protonmail.com"
+
+# Menu links
+[menu]
+    [[menu.main]]
+        name = "Curriculum Vitae"
+        weight = 1
+        url  = "/cv/"
+    [[menu.main]]
+        name = "About"
+        weight = 2
+        url = "/about/"
