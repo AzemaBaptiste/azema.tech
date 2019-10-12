@@ -1,7 +1,7 @@
 [build]
-  base = "azema.tech"
-  command = "hugo --gc --themesDir ../.. -b $URL"
-  publish = "azema.tech/public"
+  base = ""
+  command = "echo TURl=$URL && hugo --gc --themesDir ../.. -b $URL"
+  publish = "public"
 
 [build.environment]
   HUGO_THEME = "repo"
