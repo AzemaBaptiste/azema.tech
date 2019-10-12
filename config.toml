@@ -1,7 +1,5 @@
 baseURL = "https://azema.tech/"
 languageCode = "fr-fr"
-# languagecode = "fr"
-# defaultcontentlanguage = "fr"
 title = "Baptiste AZÉMA"
 theme = "hermit"  
 email = "baptiste.azema@protonmail.com"
@@ -25,15 +23,11 @@ pygmentscodefencesguesssyntax = true
     favicon_32 = "/img/favicon.ico"
     favicon_16 = "/img/favicon.ico"
 
- #   footercontent = "Enter a text here."
-
     hidecredits = false
     hidecopyright = false
 
     rtl = false
-
     math = true
-    customCSS = ["css/custom.scss"]
 
 # Social links
 [[params.social]]
