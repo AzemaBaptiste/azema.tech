@@ -3,6 +3,8 @@ title = "About"
 slug = "about"
 +++
 
+Just a guy who loves to learn stuff.
+
 ## Contact
 
 * Email - baptiste.azema[dot]protonmail[dot]com

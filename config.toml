@@ -1,6 +1,6 @@
 baseURL = "https://azema.tech/"
 languageCode = "fr-fr"
-title = "Baptiste AZÉMA"
+title = "Baptiste Azéma"
 theme = "hermit"  
 email = "baptiste.azema@protonmail.com"
 canonifyurls = true
