@@ -13,7 +13,7 @@ Certified Professional Data Engineer on Google Cloud Platform [CREDENTIALS](http
 ### Engineer's degree
 *2011 > 2016*
 
-ICAM - Institut Catholique des Arts et Métiers - Toulouse
+ICAM - Institut Catholique des Arts et Métiers - Toulouse, France
 ___
 # 👨‍💻 Professional Experiences 
 
@@ -21,7 +21,7 @@ ___
 
 *2018 > Current*
 ### Datamart and IA
-Creation from scratch of a datamart with 2 machine learning models deployed to production - 8 developers
+Creation from scratch of a datamart with 2 machine learning models deployed to production - 4 data engineer, 4 data scientist
 
 > GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, Python, SQL
 
