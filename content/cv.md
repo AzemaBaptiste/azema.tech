@@ -8,7 +8,7 @@ slug = "cv"
 ### Google Cloud Platform (GCP)
 *2019*
 
-Certified Professional Data Engineer on Google Cloud Platform [CREDENTIALS](https://www.credential.net/sdui5mmo)
+Certified Professional Data Engineer on Google Cloud Platform --- [CREDENTIALS](https://www.credential.net/sdui5mmo)
 
 ### Engineer's degree
 *2011 > 2016*
@@ -23,12 +23,12 @@ ___
 ### Datamart and IA
 Creation from scratch of a datamart with 2 machine learning models deployed to production - 4 data engineers, 4 data scientists
 
-> GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, Python, SQL - Scrum
+> GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, Gitlab, Python, SQL - Scrum
 
 ### Data replication on-premise to GCP
 Daily replication of 50 Hive databases (Hadoop) to BigQuery (GCP) - 2 developers
 
-> Hadoop, GCP, Spark, Oozie, Composer
+> Hadoop, GCP, Spark, Oozie, Composer, Gitlab
 
 ___
 ## Sopra Steria - Data Engineer
@@ -38,7 +38,7 @@ ___
 ### Air France
 Near real-time platform providing advanced analytics and machine learning predictions to help front line improving operational performance - 6 data enginneers, 2 data scientists
 
-> SparkStreaming, SparkML, Kafka, MongoDB, HortonWorks, Java - Kanban
+> SparkStreaming, SparkML, Kafka, MongoDB, HortonWorks, BitBucket, Java - Kanban
 
 ### Airbus
 MapReduce application used to process flight test data - 4 developers
@@ -52,4 +52,4 @@ API oriented application providing IAM providing policies to the clients of the 
 
 ### Misc
 * Apache Spark trainer - provided 4 times for external and internal audience.
-* AI/sentiment analysis - collect and analysis data from web social media during European Championship 2016
+* AI/sentiment analysis - collect and analyse data from web social media during European Championship 2016
