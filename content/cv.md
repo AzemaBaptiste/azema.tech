@@ -41,7 +41,7 @@ Near real-time platform providing advanced analytics and machine learning predic
 > SparkStreaming, SparkML, Kafka, MongoDB, HortonWorks, BitBucket, Java - Kanban
 
 ### Airbus
-MapReduce application used to process flight test data - 4 developers
+MapReduce application used to process and analyse flight test data - 4 developers
 
 > MapReduce, Hadoop, HBase, Apache Phoenix, Java, C# - Scrum
 
