@@ -46,7 +46,7 @@ MapReduce application used to process flight test data - 4 developers
 > MapReduce, Hadoop, HBase, Apache Phoenix, Java, C# - Scrum
 
 ### EDF
-API oriented application providing IAM providing policies to the clients of the professionnal website of EDF - 4 developers
+API oriented application providing IAM policies to clients of the professionnal website of EDF - 4 developers
 
 > OrientDB, HBase, Springboot, Jenkins, Java - Safe
 
