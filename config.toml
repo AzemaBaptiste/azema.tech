@@ -38,12 +38,12 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
     name = "linkedin"
     icon = "fab fa-linkedin"
-    weight = 4
+    weight = 2
     url = "https://www.linkedin.com/in/baptiste-azema-6a94b44a/"
 [[params.social]]
     name = "email"
     icon = "fab fa-email"
-    weight = 4
+    weight = 3
     url = "mailto:baptiste.azema@protonmail.com"
 
 # Menu links
