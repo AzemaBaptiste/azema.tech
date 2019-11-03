@@ -5,51 +5,53 @@ slug = "cv"
 
 # 🎓 Education & Certifications 
 
-### Google Cloud Platform (GCP)
-*2019*
+### *2019* | Google Cloud Platform (GCP)
 
 Certified Professional Data Engineer on Google Cloud Platform --- [CREDENTIALS](https://www.credential.net/sdui5mmo)
 
-### Engineer's degree
-*2011 > 2016*
+### *2011 > 2016* | Engineer's degree
 
 ICAM - Institut Catholique des Arts et Métiers - Toulouse, France
 ___
 # 👨‍💻 Professional Experiences 
 
 ## Renault Digital - Data Engineer
+*2018 > Current* 
 
-*2018 > Current*
 ### Datamart and IA
-Creation from scratch of a datamart with 2 machine learning models deployed to production - 4 data engineers, 4 data scientists
+Creation from scratch of a datamart with 2 machine learning models deployed to production --- 4 data engineers, 4 data scientists
 
-> GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, Gitlab, Python, SQL - Scrum
+> GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, AutoML
+>
+> Gitlab, GCR, Docker, Python, SQL - Scrum
 
 ### Data replication on-premise to GCP
-Daily replication of 50 Hive databases (Hadoop) to BigQuery (GCP) - 2 developers
+Daily replication of 50 Hive databases (Hadoop) to BigQuery (GCP) --- 2 developers
 
-> Hadoop, GCP, Spark, Oozie, Composer, Gitlab
+> Hadoop, GCP, Spark, Oozie, Composer, Gitlab, Python
 
 ___
 ## Sopra Steria - Data Engineer
-
 *2016 > 2018*
 
 ### Air France
-Near real-time platform providing advanced analytics and machine learning predictions to help front line improving operational performance - 6 data enginneers, 2 data scientists
+Near real-time platform providing advanced analytics and machine learning predictions to help front line improving operational performance --- 
+ 4 data enginneers, 2 data scientists, 1 android developer
 
-> SparkStreaming, SparkML, Kafka, MongoDB, HortonWorks, BitBucket, Java - Kanban
+> SparkStreaming, SparkML, Kafka, MongoDB, HortonWorks
+>
+> BitBucket, Java - Kanban
 
 ### Airbus
-MapReduce application used to process and analyse flight test data - 4 developers
+MapReduce application used to process and analyse flight test data (high volumetry) --- 4 developers
 
-> MapReduce, Hadoop, HBase, Apache Phoenix, Java, C# - Scrum
+> MapReduce, Hadoop, HBase, Apache Phoenix, HortonWorks, Java, C# - Scrum
 
 ### EDF
 API oriented application providing IAM policies to clients of the professionnal website of EDF - 4 developers
 
-> OrientDB, HBase, Springboot, Jenkins, Java - Safe
+> OrientDB, HBase, Springboot, HortonWorks, Jenkins, Cucumber, Java - Safe
 
 ### Misc
-* Apache Spark trainer - provided 4 times for external and internal audience.
+* Apache Spark trainer - 2 days training, provided 4 times for external and internal audience
 * AI/sentiment analysis - collect and analyse data from web social media during European Championship 2016
