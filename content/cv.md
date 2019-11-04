@@ -9,6 +9,10 @@ slug = "cv"
 
 Certified Professional Data Engineer on Google Cloud Platform --- [CREDENTIALS](https://www.credential.net/sdui5mmo)
 
+### *2019* | Finisher Paris Triathlon
+
+Finisher of the Paris Triathlon 2019 | Olympic format: 1.5km swim / 40km bike / 10km run --- [RESULTS](https://resultscui.active.com/participants/38322252)
+
 ### *2011 > 2016* | Engineer's degree
 
 ICAM - Institut Catholique des Arts et Métiers - Toulouse, France
