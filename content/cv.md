@@ -27,12 +27,12 @@ Creation from scratch of a datamart with 2 machine learning models deployed to p
 
 > GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, AutoML
 >
-> Gitlab, GCR, Docker, Python, SQL - Scrum
+> Gitlab, GCR, Docker, Terraform, Python, SQL - Scrum
 
 ### Data replication on-premise to GCP
 Daily replication of 50 Hive databases (Hadoop) to BigQuery (GCP) --- 2 developers
 
-> Hadoop, GCP, Spark, Oozie, Composer, Gitlab, Python
+> Hadoop, GCP, Spark, Oozie, Composer, Gitlab, Terraform, Python
 
 ___
 ## Sopra Steria - Data Engineer
