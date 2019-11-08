@@ -59,3 +59,4 @@ API oriented application providing IAM policies to clients of the professionnal 
 ### Misc
 * Apache Spark trainer - 2 days training, provided 4 times for external and internal audience
 * AI/sentiment analysis - collect and analyse data from web social media during European Championship 2016
+* 2 web applications based on the MEAN stack - MongoDB ExpressJS AngularJS NodeJS
