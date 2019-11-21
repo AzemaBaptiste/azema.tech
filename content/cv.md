@@ -3,19 +3,32 @@ title = "Curriculum Vitae"
 slug = "cv"
 +++
 
+# 🎉 FUN !
+
+### *2019* | Finisher Paris Triathlon 🏊‍♂️ / 🚴 / 🏃
+
+Finisher of the Paris Triathlon 2019 | Olympic format: 1.5km swim / 40km bike / 10km run ---
+ [RESULTS](https://resultscui.active.com/participants/38322252)
+
+### *2014* | Volunteering - backpacking
+4-month autonomy experience in Western Canada (Vancouver, Calgary) --- volunteer on organic farm (woofing), play with bisons, backpacker
+
+### *Birth > now* | Special talents
+
+I can touch my elbow with my tongue
+___
+
 # 🎓 Education & Certifications 
 
 ### *2019* | Google Cloud Platform (GCP)
 
 Certified Professional Data Engineer on Google Cloud Platform --- [CREDENTIALS](https://www.credential.net/sdui5mmo)
 
-### *2019* | Finisher Paris Triathlon
-
-Finisher of the Paris Triathlon 2019 | Olympic format: 1.5km swim / 40km bike / 10km run --- [RESULTS](https://resultscui.active.com/participants/38322252)
-
-### *2011 > 2016* | Engineer's degree
+### *2011 > 2016* | Engineering Degree
 
 ICAM - Institut Catholique des Arts et Métiers - Toulouse, France
+
+General engineer training based on technical, scientific and human improvement
 ___
 # 👨‍💻 Professional Experiences 
 
@@ -58,5 +71,5 @@ API oriented application providing IAM policies to clients of the professionnal 
 
 ### Misc
 * Apache Spark trainer - 2 days training, provided 4 times for external and internal audience
-* AI/sentiment analysis - collect and analyse data from web social media during European Championship 2016
-* 2 web applications based on the MEAN stack - MongoDB ExpressJS AngularJS NodeJS
+* AI/sentiment analysis - collect and analyse data from web social media during European Championship 2016 - deployed to IMB Cloud Bluemix
+* 2 web applications based on the MEAN stack - MongoDB ExpressJS AngularJS NodeJS - deployed to IMB Cloud Bluemix
