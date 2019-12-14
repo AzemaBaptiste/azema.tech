@@ -19,4 +19,4 @@ jobs:
         FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
         LOCAL_DIR: public
         REMOTE_DIR: www
-        ARGS: --delete --transfer-all --no-empty-dirs
+        ARGS: --delete --transfer-all
