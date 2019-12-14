@@ -44,7 +44,7 @@ pygmentscodefencesguesssyntax = true
     name = "email"
     icon = "fab fa-email"
     weight = 3
-    url = "mailto:baptiste.azema@protonmail.com"
+    url = "mailto:baptiste@azema.tech"
 
 # Menu links
 [menu]
