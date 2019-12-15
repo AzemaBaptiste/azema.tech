@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: build
-      run: git submodule init && git submodule update && sudo apt-get install hugo && hugo --gc --themesDir themes
+      run: git submodule init && git submodule update && snap install hugo && hugo --gc --themesDir themes
     - name: FTP Deploy
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
       env:
