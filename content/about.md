@@ -7,7 +7,7 @@ Just a guy who loves to learn stuff.
 
 ## Contact
 
-* Email - baptiste[dot]azema[dot]tech
+* Email - baptiste[at]azema[dot]tech
 * LinkedIn - https://www.linkedin.com/in/baptiste-azema-6a94b44a/
 
 ## Credits
