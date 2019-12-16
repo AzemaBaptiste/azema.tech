@@ -10,9 +10,10 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: init
-      run: git submodule init && git submodule update && sudo snap install hugo
-    - name: build
-      run: hugo --gc --themesDir themes
+      run: git submodule init && git submodule update
+    - name: build hugo
+      uses: srt32/hugo-action@master
+      args: ["--themesDir themes"]
     - name: ftp deploy
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
       env:
