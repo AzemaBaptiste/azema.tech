@@ -9,9 +9,11 @@ jobs:
 
     steps:
     - uses: actions/checkout@v1
+    - name: init
+      run: git submodule init && git submodule update && sudo snap install hugo
     - name: build
-      run: git submodule init && git submodule update && sudo snap install hugo && hugo --gc --themesDir themes
-    - name: FTP Deploy
+      run: hugo --gc --themesDir themes
+    - name: ftp deploy
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
       env:
         FTP_SERVER: ftp.cluster029.hosting.ovh.net
