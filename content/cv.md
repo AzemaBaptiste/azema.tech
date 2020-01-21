@@ -79,7 +79,3 @@ Finisher of the Paris Triathlon 2019 | Olympic format: 1.5km swim / 40km bike / 
 
 ### *2014* | Volunteering - backpacking
 4-month autonomy experience in Western Canada (Vancouver, Calgary) --- volunteer on organic farm (woofing), play with bisons, backpacker
-
-### *Birth > now* | Special talents
-
-I can touch my elbow with my tongue
