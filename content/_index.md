@@ -10,10 +10,6 @@
         </div>
 </div>
 
-### *2019* | Google Cloud Platform (GCP)
-
-Certified Professional Data Engineer on Google Cloud Platform — [CREDENTIALS](https://www.credential.net/sdui5mmo)
-
 ### *2011 > 2016* | Engineering Degree
 
 ICAM - Institut Catholique des Arts et Métiers - Toulouse, France

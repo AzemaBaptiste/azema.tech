@@ -5,6 +5,8 @@ theme = "hugo_theme_pickles"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright Azéma"
 #custom_css = "/static/css/custom.css"
+[markup.goldmark.renderer]
+  unsafe= true
 
 [params]
   # Social accounts. Link to these accounts are displayed in the header and
