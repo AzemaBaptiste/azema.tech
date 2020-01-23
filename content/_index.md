@@ -6,9 +6,13 @@
             <p>Certified Professional Data Engineer on Google Cloud Platform — <a href="https://www.credential.net/sdui5mmo">CREDENTIALS</a></p>
         </div>
         <div style="display: inline-block; margin: 0 20px;">
-            <img src="/img/gcp.png" alt="GCP" width="80">
+            <img src="https://azema.tech/img/gcp.png" alt="GCP" width="80">
         </div>
 </div>
+
+### *2019* | Google Cloud Platform (GCP)
+
+Certified Professional Data Engineer on Google Cloud Platform — [CREDENTIALS](https://www.credential.net/sdui5mmo)
 
 ### *2011 > 2016* | Engineering Degree
 
