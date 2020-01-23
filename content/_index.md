@@ -1,19 +1,14 @@
-+++
-title = "Curriculum Vitae"
-slug = "cv"
-+++
-
 # 🎓 Education & Certifications 
 
 </p>
-<table>
+<table style="padding: 0; border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
     <tbody>
         <tr>
-            <td><h3 id="2019-google-cloud-platform-gcp"><em>2019</em> | Google Cloud Platform (GCP)<a href="#2019-google-cloud-platform-gcp" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h3></td>
-            <td rowspan=2><img src="/img/gcp.png" alt="GCP" width="120"></td>
+            <td style="border:none; padding: 0; padding-bottom: 0;"><h3> <em>2019</em> | Google Cloud Platform (GCP) </td> </h3>
+            <td style="border:none" rowspan=2><img src="/img/gcp.png" alt="GCP" width="80"></td>
         </tr>
         <tr>
-            <td>Certified Professional Data Engineer on Google Cloud Platform — <a href="https://www.credential.net/sdui5mmo">CREDENTIALS</a></td>
+            <td style="padding: 0; border:none">Certified Professional Data Engineer on Google Cloud Platform — <a href="https://www.credential.net/sdui5mmo">CREDENTIALS</a></td>
         </tr>
     </tbody>
 </table>
@@ -41,7 +36,7 @@ Daily replication of 50 Hive databases (Hadoop) to BigQuery (GCP) --- 2 develope
 
 > Hadoop, GCP, Spark, Oozie, Composer, Gitlab, Terraform, Python
 
-___
+
 ## Sopra Steria - Data Engineer
 *2016 > 2018*
 

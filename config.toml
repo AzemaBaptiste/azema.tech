@@ -1,58 +1,51 @@
-baseURL = "https://azema.tech/"
-languageCode = "fr-fr"
-title = "Baptiste Azéma"
-theme = "hermit"  
-email = "baptiste.azema@protonmail.com"
-canonifyurls = true
-
-pygmentsstyle = "bw"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
+baseurl = "http://localhost:1313"
+languageCode = "en-us"
+Title = "Baptiste Azéma"
+theme = "hugo_theme_pickles"  
+# Copyright notice. This is displayer in the footer.
+copyright = "&copy; Copyright Azéma"
+#custom_css = "/static/css/custom.css"
 
 [params]
-    dateform        = "Jan 2, 2006"
-    dateformShort   = "Jan 2"
-    dateformNum     = "2006-01-02"
-    dateformNumTime = "2006-01-02 15:04 -0700"
-    author = "Baptiste Azéma"
-    info = "Data Engineer"
-    description = "Baptiste Azéma's personal website"
-    keywords = "data, machine learning"
-    avatarurl = "img/logo.png"
+  # Social accounts. Link to these accounts are displayed in the header and
+  # footer
+  github = "AzemaBaptiste"
+  linkedin = "baptiste-azema-6a94b44a"
+  # Google Analytics API key.
+  ga_api_key = "UA-156741236-1"
+  author = "Baptiste Azéma"
+  authorwebsite = "azema.tech"
+  avatar = "/static/img/logo.png"
+  contact = "mailto:baptiste@azema.tech"
+  #bio = "Your short bio"
+  # Short subtitle/tagline. This is displayed in the header.
+  subtitle = "Curriculum Vitae"
+  # Logo image. This is displayed ogp image.
+  logo = "/static/img/logo.png"
+  favicon = "/static/img/logo.png"
 
-    favicon_32 = "/img/favicon.ico"
-    favicon_16 = "/img/favicon.ico"
 
-    hidecredits = false
-    hidecopyright = false
+[related]
+  # Only include matches with rank >= threshold. This is a normalized rank between 0 and 100.
+  threshold = 80
 
-    rtl = false
-    math = true
+  # To get stable "See also" sections we, by default, exclude newer related pages.
+  includeNewer = false
 
-# Social links
-[[params.social]]
-    name = "github"
-    icon = "fab fa-github fa-2x"
-    weight = 1
-    url = "https://github.com/AzemaBaptiste/"
-[[params.social]]
-    name = "linkedin"
-    icon = "fab fa-linkedin"
-    weight = 2
-    url = "https://www.linkedin.com/in/baptiste-azema-6a94b44a/"
-[[params.social]]
-    name = "email"
-    icon = "fab fa-email"
-    weight = 3
-    url = "mailto:baptiste@azema.tech"
+  # Will lower case keywords in both queries and in the indexes.
+  toLower = false
 
-# Menu links
-[menu]
-    [[menu.main]]
-        name = "Curriculum Vitae"
-        weight = 1
-        url  = "/cv/"
-    [[menu.main]]
-        name = "About"
-        weight = 2
-        url = "/about/"
+  [[related.indices]]
+  name = "keywords"
+  weight = 150
+  [[related.indices]]
+  name  = "author"
+  toLower = true
+  weight = 30
+  [[related.indices]]
+  name  = "tags"
+  weight = 100
+  [[related.indices]]
+  name  = "date"
+  weight = 10
+  pattern = "2017"

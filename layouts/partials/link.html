@@ -1,0 +1,180 @@
+{{ if or ( $.Param "medium" ) ( $.Param "twitter" ) ( $.Param "facebook" ) ( $.Param "instagram" ) ( $.Param "googleplus" ) ( $.Param "github" ) ( $.Param "gitlab" ) ( $.Param "npm" ) ( $.Param "codepen" ) ( $.Param "dribbble" ) ( $.Param "fivehundredpx" ) ( $.Param "flickr" ) ( $.Param "pinterest" ) ( $.Param "tumblr" ) ( $.Param "vimeo" ) ( $.Param "youtube" ) ( $.Param "linkedin" ) }}
+<ul class="c-links">
+  {{ with ($.Param "medium") }}
+  <li class="c-links__item">
+    <a href="https://medium.com/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>medium</title>
+        <use xlink:href="#icon-medium"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "twitter") }}
+  <li class="c-links__item">
+    <a href="https://twitter.com/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>twitter</title>
+        <use xlink:href="#icon-twitter"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "facebook") }}
+  <li class="c-links__item">
+    <a href="https://facebook.com/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>facebook</title>
+        <use xlink:href="#icon-facebook"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "instagram") }}
+  <li class="c-links__item">
+    <a href="https://instagram.com/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>instagram</title>
+        <use xlink:href="#icon-instagram"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "googleplus") }}
+  <li class="c-links__item">
+    <a href="{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>googleplus</title>
+        <use xlink:href="#icon-google-plus"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "github") }}
+  <li class="c-links__item">
+    <a href="https://github.com/{{ . }}" style="width:40px; height:40px;" target="_blank">
+      <svg viewBox="0 0 64 64" style="width:20px; height:20px;" class="c-links__icon">
+        <title>github</title>
+        <use xlink:href="#icon-github"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "gitlab") }}
+  <li class="c-links__item">
+    <a href="https://gitlab.com/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>gitlab</title>
+        <use xlink:href="#icon-gitlab"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "npm") }}
+  <li class="c-links__item">
+    <a href="https://www.npmjs.com/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>npm</title>
+        <use xlink:href="#icon-npm"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "codepen") }}
+  <li class="c-links__item">
+    <a href="https://codepen.io/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>codepen</title>
+        <use xlink:href="#icon-codepen"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "dribbble") }}
+  <li class="c-links__item">
+    <a href="https://dribbble.com/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>dribbble</title>
+        <use xlink:href="#icon-dribbble"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "fivehundredpx") }}
+  <li class="c-links__item">
+    <a href="https://500px.com/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>500px</title>
+        <use xlink:href="#icon-500px"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "flickr") }}
+  <li class="c-links__item">
+    <a href="https://www.flickr.com/photos/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>flickr</title>
+        <use xlink:href="#icon-flickr"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "pinterest") }}
+  <li class="c-links__item">
+    <a href="https://www.pinterest.jp/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>pinterest</title>
+        <use xlink:href="#icon-pinterest"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "tumblr") }}
+  <li class="c-links__item">
+    <a href="https://www.tumblr.com/blog/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>tumblr</title>
+        <use xlink:href="#icon-tumblr"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "vimeo") }}
+  <li class="c-links__item">
+    <a href="https://vimeo.com/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>vimeo</title>
+        <use xlink:href="#icon-vimeo"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "youtube") }}
+  <li class="c-links__item">
+    <a href="https://www.youtube.com/user/{{ . }}" target="_blank">
+      <svg viewBox="0 0 64 64" class="c-links__icon">
+        <title>youtube</title>
+        <use xlink:href="#icon-youtube"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  {{ with ($.Param "linkedin") }}
+  <li class="c-links__item">
+    <a href="https://linkedin.com/in/{{ . }}" style="width:40px; height:40px;" target="_blank">
+      <svg viewBox="0 0 64 64" style="width:20px; height:20px;" class="c-links__icon">
+        <title>linkedin</title>
+        <use xlink:href="#icon-linkedin"></use>
+      </svg>
+    </a>
+  </li>
+  {{ end }}
+  <li class="c-links__item">
+    <a href="https://www.hackerrank.com/baptiste_azema" style="width:40px; height:40px;" target="_blank">
+      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" width="1.5em" height="1.5em" style="-ms-transform: rotate(360deg); -webkit-transform: rotate(360deg); transform: rotate(360deg);" preserveAspectRatio="xMidYMid meet" viewBox="0 0 24 24"><path d="M12 0c1.285 0 9.75 4.886 10.392 6c.645 1.115.645 10.885 0 12S13.287 24 12 24s-9.75-4.885-10.395-6c-.641-1.115-.641-10.885 0-12C2.25 4.886 10.715 0 12 0zm2.295 6.799a.259.259 0 0 0-.258.258v3.875H9.963V6.908h.701a.255.255 0 0 0 .254-.258a.257.257 0 0 0-.123-.221L9.223 4.92a.303.303 0 0 0-.226-.109a.265.265 0 0 0-.207.107L7.11 6.43a.257.257 0 0 0-.12.218c0 .143.113.258.255.258h.704l.008 10.035c0 .145.111.258.254.258h1.492a.258.258 0 0 0 .259-.256v-4.004h4.073v4.152h-.699a.26.26 0 0 0-.137.477l1.579 1.51a.301.301 0 0 0 .225.109a.264.264 0 0 0 .208-.109l1.679-1.51a.258.258 0 0 0-.135-.477h-.704l-.007-10.034a.257.257 0 0 0-.255-.26h-1.494v.002z" fill="#626262"/></svg>
+    </a>
+  </li>
+</ul>
+
+{{ end }}
