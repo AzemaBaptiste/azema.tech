@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: init
-      run: mkdir themes && themes && git clone -b release https://github.com/mismith0227/hugo_theme_pickles
+      run: cd themes && git clone -b release https://github.com/mismith0227/hugo_theme_pickles
     - name: build hugo
       uses: srt32/hugo-action@master
     - name: ftp deploy
