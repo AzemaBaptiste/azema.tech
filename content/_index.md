@@ -1,17 +1,14 @@
 # 🎓 Education & Certifications 
 
-</p>
-<table style="padding: 0; border:none; border-collapse:collapse; cellspacing:0; cellpadding:0">
-    <tbody>
-        <tr>
-            <td style="border:none; padding: 0; padding-bottom: 0;"><h3> <em>2019</em> | Google Cloud Platform (GCP) </td> </h3>
-            <td style="border:none" rowspan=2><img src="/img/gcp.png" alt="GCP" width="80"></td>
-        </tr>
-        <tr>
-            <td style="padding: 0; border:none">Certified Professional Data Engineer on Google Cloud Platform — <a href="https://www.credential.net/sdui5mmo">CREDENTIALS</a></td>
-        </tr>
-    </tbody>
-</table>
+<div>
+        <div style="display: inline-block; width:auto;">
+            <h3> <em>2019</em> | Google Cloud Platform (GCP) </td> </h3>
+            <p>Certified Professional Data Engineer on Google Cloud Platform — <a href="https://www.credential.net/sdui5mmo">CREDENTIALS</a></p>
+        </div>
+        <div style="display: inline-block; margin: 0 20px;">
+            <img src="/img/gcp.png" alt="GCP" width="80">
+        </div>
+</div>
 
 ### *2011 > 2016* | Engineering Degree
 
