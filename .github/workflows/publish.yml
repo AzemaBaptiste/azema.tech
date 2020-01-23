@@ -13,6 +13,7 @@ jobs:
       run: cd themes && git clone -b release https://github.com/mismith0227/hugo_theme_pickles
     - name: build hugo
       uses: srt32/hugo-action@master
+      args: "--theme=hugo_theme_pickles"
     - name: ftp deploy
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
       env:
