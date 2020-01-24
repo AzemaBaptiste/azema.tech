@@ -75,4 +75,6 @@ Finisher of the Paris Triathlon 2019 | Olympic format: 1.5km swim / 40km bike / 
 ___
 ## 📨 Contact
 
+``` 
 baptiste[at]azema[dot]tech
+``` 
