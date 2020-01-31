@@ -6,6 +6,9 @@
   
   {{ partial "svgpack-sprite.html" . }}
   <header class="l-header">
+    <div>
+      <img src="https://azema.tech/img/logo.png" height="120px" width="120px"/>
+    </div>
     {{ if .IsPage }}
     <p class="c-title p-title"><a href="{{ .Site.BaseURL }}" class="p-title__link">{{ .Site.Title }}</a></p>
     {{ else }}
