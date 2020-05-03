@@ -62,6 +62,14 @@ API oriented application providing IAM policies to clients of the professionnal 
 
 ___
 
+# 🧘🏻‍♂️ Personal projects
+
+* [Topper](https://github.com/AzemaBaptiste/topper) - Parse and process log files of music listening - Python, OOP, Pypi, Github Actions
+* [Tagging](https://github.com/AzemaBaptiste/tagging) - Web application for music tagging purpose - VueJS, Flask, SQLite, Docker
+* [Tagger](https://github.com/AzemaBaptiste/tagger) - Music genre classifier using keras
+
+___
+
 # 🌴 What else..?
 
 ### *2019* | Finisher Paris Triathlon 🏊‍♂️ / 🚴 / 🏃
