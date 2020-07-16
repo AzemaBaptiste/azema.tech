@@ -18,24 +18,32 @@ General engineer training based on technical, scientific and human improvement
 ___
 # 👨‍💻 Professional Experiences 
 
-## Renault Digital - Data Engineer
-*2018 > Current* 
+## Renault Digital - Data Engineer | *2018 > Current* 
 
-### Datamart and IA
-Creation from scratch of a datamart with 3 machine learning models deployed to production and a Web application deployed on Kubernetes --- 4 data engineers, 4 data scientists
 
-> GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, Kubernetes, AutoML
+### Datamart and IA - Tech Lead | Current
+Creation of a datamart.
+
+- Design and build a scalable environment for ML models, for both training and serving prediction.
+Three machine learning models deployed to production and a Web application deployed on Kubernetes. 
+- Create and maintain data pipelines to extract, transform and load data from various data sources.
+- Automation of CI/CD pipelines.
+- Infrastructure as Code with Terraform.
+
+4 data engineers, 4 data scientists
+
+> Google Cloud, BigQuery, Composer, PubSub, Scikit-learn, Spark, Kubernetes, AutoML
 >
 > Gitlab, GCR, Docker, Terraform, Python, SQL - Scrum
 
-### Data replication on-premise to GCP
+### Data replication on-premise to GCP | 3 months
 Daily replication of 50 Hive databases (Hadoop) to BigQuery (GCP) --- 2 developers
 
 > Hadoop, GCP, Spark, Oozie, Composer, Gitlab, Terraform, Python
 
 
-## Sopra Steria - Data Engineer
-*2016 > 2018*
+## Sopra Steria - Data Engineer | *2016 > 2018*
+
 
 ### Air France
 Near real-time platform providing advanced analytics and machine learning predictions to help front line improving operational performance --- 
@@ -87,6 +95,10 @@ ___
 baptiste[at]azema[dot]tech
 ``` 
 
+___
+## Resumé
+
 <a href="/cv_azema.pdf" target="_blank">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24" style="vertical-align: middle"><path fill="none" d="M0 0h24v24H0z"/><path d="M20 2a3 3 0 0 1 3 3v2h-2v12a3 3 0 0 1-3 3H4a3 3 0 0 1-3-3v-2h16v2a1 1 0 0 0 .883.993L18 20a1 1 0 0 0 .993-.883L19 19V4H6a1 1 0 0 0-.993.883L5 5v10H3V5a3 3 0 0 1 3-3h14z"/></svg> <span>CV.pdf</span>
+<img  width="24" height="24" style="vertical-align: middle" src="img/resume.png" /><span>cv_azema.pdf</span>
 </a>
+

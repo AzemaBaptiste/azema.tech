@@ -21,7 +21,7 @@ copyright = "&copy; Copyright Azéma"
   contact = "mailto:baptiste@azema.tech"
   #bio = "Your short bio"
   # Short subtitle/tagline. This is displayed in the header.
-  subtitle = "Curriculum Vitae"
+  #subtitle = "Curriculum Vitae"
   # Logo image. This is displayed ogp image.
   logo = "/static/img/logo.png"
   favicon = "/static/img/logo.png"
