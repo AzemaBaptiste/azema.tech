@@ -22,9 +22,9 @@ ___
 *2018 > Current* 
 
 ### Datamart and IA
-Creation from scratch of a datamart with 2 machine learning models deployed to production --- 4 data engineers, 4 data scientists
+Creation from scratch of a datamart with 3 machine learning models deployed to production and a Web application deployed on Kubernetes --- 4 data engineers, 4 data scientists
 
-> GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, AutoML
+> GCP, BigQuery, Composer, PubSub, Scikit-learn, Spark, Kubernetes, AutoML
 >
 > Gitlab, GCR, Docker, Terraform, Python, SQL - Scrum
 
