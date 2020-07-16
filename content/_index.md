@@ -46,7 +46,8 @@ Daily replication of 50 Hive databases (Hadoop) to BigQuery (GCP) --- 2 develope
 
 
 ### Air France
-Near real-time platform providing advanced analytics and machine learning predictions to help front line improving operational performance --- 
+Near real-time platform providing advanced analytics and machine learning predictions to help front line improving operational performance.
+Deploy and maintain 2 ML models in production providing real-time predictions --- 
  4 data enginneers, 2 data scientists, 1 android developer
 
 > SparkStreaming, SparkML, Kafka, MongoDB, HortonWorks
