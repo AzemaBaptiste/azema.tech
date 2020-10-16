@@ -76,6 +76,8 @@ ___
 * [Topper](https://github.com/AzemaBaptiste/topper) - Parse and process log files of music listening - Python, OOP, Pypi, Github Actions
 * [Tagging](https://github.com/AzemaBaptiste/tagging) - Web application for music tagging purpose - VueJS, Flask, SQLite, Docker
 * [Tagger](https://github.com/AzemaBaptiste/tagger) - Music genre classifier using keras
+* [Domination](https://github.com/AzemaBaptiste/domination) - Real-time data processing - Kafka, Faust, Python, Clickhouse, Docker
+* [Bazema linker](https://github.com/AzemaBaptiste/bazema_linker) - Parse and process csv files - Python, Pandas, SQL
 
 ___
 
