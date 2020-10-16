@@ -14,25 +14,26 @@
 
 ICAM - Institut Catholique des Arts et Métiers - Toulouse, France
 
-General engineer training based on technical, scientific and human improvement
+General engineer training based on technical, scientific and human improvement.
 ___
 # 👨‍💻 Professional Experiences 
 
 ## Renault Digital - Data Engineer | *2018 > Current* 
 
 
-### Datamart and IA - Tech Lead | Current
+### Datamart and IA - Tech Lead | 2 years
 Creation of a datamart.
 
 - Design and build a scalable environment for ML models, for both training and serving prediction.
-Three machine learning models deployed to production and a Web application deployed on Kubernetes. 
+- Four machine learning models deployed to production.
+- Web application deployed on Kubernetes.
 - Create and maintain data pipelines to extract, transform and load data from various data sources.
 - Automation of CI/CD pipelines.
 - Infrastructure as Code with Terraform.
 
 4 data engineers, 4 data scientists
 
-> Google Cloud, BigQuery, Composer, PubSub, Scikit-learn, Spark, Kubernetes, AutoML
+> Google Cloud, BigQuery, Composer, PubSub, Scikit-learn, Spark, Kubernetes, VueJS, Flask
 >
 > Gitlab, GCR, Docker, Terraform, Python, SQL - Scrum
 
@@ -45,22 +46,22 @@ Daily replication of 50 Hive databases (Hadoop) to BigQuery (GCP) --- 2 develope
 ## Sopra Steria - Data Engineer | *2016 > 2018*
 
 
-### Air France
+### Air France | 1 year 2 months
 Near real-time platform providing advanced analytics and machine learning predictions to help front line improving operational performance.
 Deploy and maintain 2 ML models in production providing real-time predictions --- 
- 4 data enginneers, 2 data scientists, 1 android developer
+ 4 data engineers, 2 data scientists, 1 android developer
 
 > SparkStreaming, SparkML, Kafka, MongoDB, HortonWorks
 >
 > BitBucket, Java - Kanban
 
-### Airbus
-MapReduce application used to process and analyse flight test data (high volumetry) --- 4 developers
+### Airbus | 6 months
+MapReduce application used to process and analyse flight test data (high volume) --- 4 developers
 
 > MapReduce, Hadoop, HBase, Apache Phoenix, HortonWorks, Java, C# - Scrum
 
-### EDF
-API oriented application providing IAM policies to clients of the professionnal website of EDF - 4 developers
+### EDF | 2 months
+API oriented application providing IAM policies to clients of the professional website of EDF - 4 developers
 
 > OrientDB, HBase, Springboot, HortonWorks, Jenkins, Cucumber, Java - Safe
 
