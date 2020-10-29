@@ -1,7 +1,7 @@
 baseurl = "https://azema.tech/"
 languageCode = "en-us"
 Title = "Baptiste Azéma"
-theme = "hugo_theme_pickles"  
+theme = "hugo_theme_pickles"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Copyright Azéma"
 #custom_css = "/static/css/custom.css"
@@ -13,8 +13,6 @@ copyright = "&copy; Copyright Azéma"
   # footer
   github = "AzemaBaptiste"
   linkedin = "baptiste-azema-6a94b44a"
-  # Google Analytics API key.
-  ga_api_key = "UA-156741236-1"
   author = "Baptiste Azéma"
   authorwebsite = "azema.tech"
   avatar = "/static/img/logo.png"
