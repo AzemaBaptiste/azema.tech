@@ -1,14 +1,17 @@
 # 🎓 Education & Certifications 
 
-<div>
-        <div style="display: inline-block; width:auto;">
-            <h3> <em>2019</em> | Google Cloud Platform (GCP) </td> </h3>
-            <p>Certified Professional Data Engineer on Google Cloud Platform — <a href="https://www.credential.net/sdui5mmo" target="_blank">CREDENTIALS</a></p>
-        </div>
-        <div style="display: inline-block; margin: 0 20px;">
-            <img src="/img/gcp.png" alt="GCP" width="80">
-        </div>
-</div>
+### *2020* | Udacity - Machine Learning Engineer Nanodegree
+Machine Learning Engineer Nanodegree — <a href="https://graduation.udacity.com/confirm/STUCHQYP" target="_blank">CREDENTIALS</a>
+
+Learn advanced machine learning techniques and algorithms and how to package
+and deploy your models to a production environment.
+
+### *2019* | Google Cloud Platform (GCP)
+Certified Professional Data Engineer on Google Cloud Platform — <a href="https://www.credential.net/sdui5mmo" target="_blank">CREDENTIALS</a>
+
+The Professional Data Engineer exam assesses your ability to:
+Design data processing systems, build and operationalize data processing systems,
+operationalize machine learning models, ensure solution quality.
 
 ### *2011 > 2016* | Engineering Degree
 
@@ -18,7 +21,21 @@ General engineer training based on technical, scientific and human improvement.
 ___
 # 👨‍💻 Professional Experiences 
 
-## Renault Digital - Data Engineer | *2018 > Current* 
+## Blade-Shadow - Data Engineer / DevOps | *2020 > Current* 
+
+### Tech Lead | Current 
+Worldwide data platform. Collect, structure and serve real time data for the company. 
+Processing millions of event per seconds.<br>
+Worldwide Clickhouse cluster, administration of 10 Kafka clusters, APIs receiving data, scrappers.
+
+> Kafka, Clickhouse, InfluxDB, Faust, FastAPI, Kubernetes
+> 
+> Metabase, Grafana
+> 
+> Python, SQL, Docker, Ansible, Gitlab, GCP
+
+
+## Renault Digital - Data Engineer | *2018 > 2020* 
 
 
 ### Datamart and IA - Tech Lead | 2 years
