@@ -21,9 +21,12 @@ General engineer training based on technical, scientific and human improvement.
 ___
 # 👨‍💻 Professional Experiences 
 
-## Blade-Shadow - Data Engineer / DevOps | *2020 > Current* 
+## Blade-Shadow - Data Engineer / DataOps  | *2020 > Current* 
 
 ### Tech Lead | Current 
+
+Allow management and departments to make the right decisions based on data. Democratise data access across the entire company. Design and development of multiple products in order to deliver meaningful insights and forecasts.
+
 Worldwide data platform. Collect, structure and serve real time data for the company. 
 Processing millions of event per seconds.<br>
 Worldwide Clickhouse cluster, administration of 10 Kafka clusters, APIs receiving data, scrappers.
