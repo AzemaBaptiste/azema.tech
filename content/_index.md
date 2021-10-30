@@ -1,6 +1,6 @@
 # 🎓 Education & Certifications 
 
-### *2020* | Udacity - Machine Learning Engineer Nanodegree
+### *2021* | Udacity - Machine Learning Engineer Nanodegree
 Machine Learning Engineer Nanodegree — <a href="https://graduation.udacity.com/confirm/STUCHQYP" target="_blank">CREDENTIALS</a>
 
 Learn advanced machine learning techniques and algorithms and how to package
@@ -21,9 +21,9 @@ General engineer training based on technical, scientific and human improvement.
 ___
 # 👨‍💻 Professional Experiences 
 
-## Blade-Shadow - Data Engineer / DataOps  | *2020 > 2022* 
+## Shadow - Data Engineer / DataOps  | *2020 > 2022* 
 
-### Tech Lead | Current 
+### Tech Lead 
 
 Allow management and departments to make the right decisions based on data. Democratise data access across the entire company. Design and development of multiple products in order to deliver meaningful insights and forecasts.
 
