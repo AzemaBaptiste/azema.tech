@@ -94,6 +94,7 @@ ___
 
 # 🧘🏻‍♂️ Personal projects
 
+* [Bazema_pokemon](https://github.com/AzemaBaptiste/pokemon_classifier) - Classify images as Pokémon - Python, PyTorch, transfer learning RESNET-50, CNN, Image clasification
 * [Topper](https://github.com/AzemaBaptiste/topper) - Parse and process log files of music listening - Python, OOP, Pypi, Github Actions
 * [Tagging](https://github.com/AzemaBaptiste/tagging) - Web application for music tagging purpose - VueJS, Flask, SQLite, Docker
 * [Tagger](https://github.com/AzemaBaptiste/tagger) - Music genre classifier using keras
