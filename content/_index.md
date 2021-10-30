@@ -21,7 +21,7 @@ General engineer training based on technical, scientific and human improvement.
 ___
 # 👨‍💻 Professional Experiences 
 
-## Blade-Shadow - Data Engineer / DataOps  | *2020 > Current* 
+## Blade-Shadow - Data Engineer / DataOps  | *2020 > 2022* 
 
 ### Tech Lead | Current 
 
