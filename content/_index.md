@@ -21,7 +21,15 @@ General engineer training based on technical, scientific and human improvement.
 ___
 # 👨‍💻 Professional Experiences 
 
-## Shadow - Data Engineer / DataOps  | *2020 > 2022* 
+## Sifflet - Software Engineer  | *2022 > ...* 
+
+Building a data obeservability SaaS platform for worldwide customer.
+
+> Java, Python
+>
+> k8s, AWS, GCP
+
+## Shadow - Data Engineer / DataOps  | *2020 > 2021* 
 
 ### Tech Lead 
 
