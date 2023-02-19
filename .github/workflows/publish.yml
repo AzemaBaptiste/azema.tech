@@ -10,11 +10,9 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - name: init
-      run: cd themes && git clone -b release https://github.com/mismith0227/hugo_theme_pickles
+      run: cd themes && git clone https://github.com/526avijitgupta/gokarna.git
     - name: build hugo
       uses: srt32/hugo-action@master
-      with:
-        args: "--theme=hugo_theme_pickles"
     - name: ftp deploy
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
       env:
