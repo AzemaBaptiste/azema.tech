@@ -1,31 +1,6 @@
-  </main>
-  <footer class="l-footer">
-
-    <p class="p-copyright">
-      {{ with .Site.Copyright | safeHTML }}
-        {{ . }}
-      {{ else }}
-        {{ if ($.Param "author") }}
-          {{ if ($.Param "authorwebsite") }}
-            <a href="{{ $.Param "authorwebsite" }}">{{ $.Param "author" }}</a>
-          {{ else }}
-            {{ $.Param "author" }}
-          {{ end }}
-        {{ end }}
-        &nbsp;&bull;&nbsp;
-        {{ .Site.LastChange.Format "2006" }}
-
-        {{ if .Site.Title }}
-          &nbsp;&bull;&nbsp;
-          <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
-        {{ end }}
-      {{ end }}
-      | Built with <a href="http://gohugo.io">Hugo</a>
-    </p>
-  </footer>
-
-  <script async defer data-website-id="20d692ae-70d7-4393-9099-1661a68926d5" src="https://metrics.boris.sh/umami.js"></script>
-
-  {{- partial "footer_custom.html" . }}
-</body>
-</html>
+<footer class="footer">
+    <span>&copy; {{ now.Year }} {{ .Site.Params.Footer}}</span>
+    <span>
+        Made with &#10084;&#65039; using  <a href="http://gohugo.io">Hugo</a> and <a target="_blank" href="https://github.com/526avijitgupta/gokarna">Gokarna</a>
+    </span>
+</footer>
