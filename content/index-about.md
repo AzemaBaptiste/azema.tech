@@ -159,7 +159,3 @@ ___
 <a href="/cv_azema.pdf" target="_blank">
 <img  width="24" height="24" style="vertical-align: middle" src="/img/resume.png" /><span>cv_azema.pdf</span>
 </a>
-
-<a href="cv_azema.pdf" target="_blank"> img
-    <img width="24" height="24" style="vertical-align: middle" src="/img/resume.png"/><span>cv_azema.pdf</span>
-</a>
