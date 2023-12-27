@@ -133,7 +133,7 @@ ___
 
 ### Triathlon enthusiast 🏊‍♂️ / 🚴 / 🏃
 
-Finisher of the Trialong Triathlon 2023 (at Bois-le-Roi) | L format: 1.9km swim / 85km bike / 21km run
+Finisher of the Trialong at Bois-le-Roi 2023 | L Format: 1.9km swim / 85km bike / 21km run --- [RESULTS](http://trialong.com/wp-content/uploads/2023/09/TriaLong-23-V1.pdf)
 
 Finisher of the Paris Triathlon 2022 | Olympic format: 1.5km swim / 40km bike / 10km run
 
