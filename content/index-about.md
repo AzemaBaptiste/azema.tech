@@ -4,7 +4,7 @@
 
 Building a data observability SaaS platform for worldwide customer.
 
-Internal expert to architecture, design and devolop a sub-system of Sifflet.
+Internal expert to architecture, design and develop a sub-system of Sifflet.
 
 Work closely with Product team to create collaborative and realistic roadmaps.
 
