@@ -1,12 +1,20 @@
 # 👨‍💻 Professional Experiences
 
-## [Sifflet](https://www.siffletdata.com/) - Software Engineer | *2022 > now*
+## [Sifflet](https://www.siffletdata.com/) - Team Lead | *2022 > now*
 
 Building a data observability SaaS platform for worldwide customer.
 
+Internal expert to architecture, design and devolop a sub-system of Sifflet.
+
+Work closely with Product team to create collaborative and realistic roadmaps.
+
+Lead a team of 5 software engieer to deliver the company roadmap.
+
 > Java, Python
 >
-> k8s, Docker, MySql, AWS, GCP
+> Temporal.io, k8s, Docker, MySql, AWS, GCP
+>
+> Gitlab, Linear, Notion, ArgoCD, Sentry, Grafana
 
 
 ## [Shadow](https://shadow.tech) - Data Engineer / DataOps | *2020 > 2021*
@@ -125,6 +133,8 @@ ___
 
 ### Triathlon enthusiast 🏊‍♂️ / 🚴 / 🏃
 
+Finisher of the Trialong Triathlon 2023 (at Bois-le-Roi) | L format: 1.9km swim / 85km bike / 21km run
+
 Finisher of the Paris Triathlon 2022 | Olympic format: 1.5km swim / 40km bike / 10km run
 
 Finisher of the Paris Triathlon 2019 | Olympic format: 1.5km swim / 40km bike / 10km run ---
@@ -150,3 +160,6 @@ ___
 <img  width="24" height="24" style="vertical-align: middle" src="/img/resume.png" /><span>cv_azema.pdf</span>
 </a>
 
+<a href="cv_azema.pdf" target="_blank"> img
+    <img width="24" height="24" style="vertical-align: middle" src="/img/resume.png"/><span>cv_azema.pdf</span>
+</a>
