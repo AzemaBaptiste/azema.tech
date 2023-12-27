@@ -6,9 +6,9 @@ Building a data observability SaaS platform for worldwide customer.
 
 Internal expert to architecture, design and develop a sub-system of Sifflet.
 
-Work closely with Product team to create collaborative and realistic roadmaps.
+Work closely with Product team to create collaborative and realistic roadmaps. Daily communication and decisions with Product Managers.
 
-Lead a team of 5 software engieer to deliver the company roadmap.
+Lead a team of 4 software engieers to deliver the company roadmap.
 
 > Java, Python
 >
