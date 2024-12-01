@@ -8,9 +8,9 @@ Internal expert to architecture, design and develop a sub-system of Sifflet.
 
 Work closely with Product team to create collaborative and realistic roadmaps. Daily communication and decisions with Product Managers.
 
-Lead a team of 4 software engieers to deliver the company roadmap.
+Lead a team of 4 software engieers, frontend and backend engineers, to deliver the company roadmap.
 
-> Java, Python
+> Java, Python, Vue, Typescript
 >
 > Temporal.io, k8s, Docker, MySql, AWS, GCP
 >
