@@ -22,10 +22,6 @@ enableRobotsTXT = true
 
   description = "I’m just a simple man, trying to make my way in the universe."
 
-  socialIcons = [
-      {name = "github", url = "https://github.com/AzemaBaptiste"},
-      {name = "linkedin", url = "https://www.linkedin.com/in/baptiste-azema/"},
-    ]
   customHeadHTML= '''
   <link rel="stylesheet" type="text/css" href="/css/custom.css">
   <script async defer data-website-id="20d692ae-70d7-4393-9099-1661a68926d5" src="https://metrics.boris.sh/umami.js"></script>

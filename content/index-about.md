@@ -1,6 +1,6 @@
 # 👨‍💻 Professional Experiences
 
-## [Sifflet](https://www.siffletdata.com/) - Team Lead | *2022 > now*
+## [Sifflet](https://www.siffletdata.com/) - Team Lead / Software Engineer | *2022 > now*
 
 Building a data observability SaaS platform for worldwide customer.
 
